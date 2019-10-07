@@ -1,0 +1,15 @@
+info face="Arial" size=20 bold=0 italic=0 charset="" unicode=1 stretchH=120 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=23 base=18 scaleW=300 scaleH=300 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="wonfunl_0.tga"
+chars count=11
+char id=46   x=0     y=84    width=67    height=78    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=48   x=68    y=82    width=64    height=78    xoffset=0     yoffset=0     xadvance=64    page=0  chnl=15
+char id=49   x=198   y=82    width=63    height=78    xoffset=0     yoffset=0     xadvance=63    page=0  chnl=15
+char id=50   x=127   y=161   width=67    height=76    xoffset=0     yoffset=0     xadvance=67    page=0  chnl=15
+char id=51   x=197   y=0     width=62    height=81    xoffset=0     yoffset=0     xadvance=62    page=0  chnl=15
+char id=52   x=68    y=0     width=64    height=81    xoffset=0     yoffset=0     xadvance=64    page=0  chnl=15
+char id=53   x=133   y=0     width=63    height=81    xoffset=0     yoffset=0     xadvance=63    page=0  chnl=15
+char id=54   x=0     y=0     width=67    height=83    xoffset=0     yoffset=0     xadvance=67    page=0  chnl=15
+char id=55   x=64    y=163   width=62    height=78    xoffset=0     yoffset=0     xadvance=62    page=0  chnl=15
+char id=56   x=0     y=163   width=63    height=78    xoffset=0     yoffset=0     xadvance=63    page=0  chnl=15
+char id=57   x=133   y=82    width=64    height=78    xoffset=0     yoffset=0     xadvance=64    page=0  chnl=15
